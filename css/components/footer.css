@@ -1,0 +1,31 @@
+
+.footer{
+  margin-top: 20px;
+  color:rgb(202, 205, 206);
+  background-color:#2C2B2A;
+  align-items: center;
+  text-align: center;
+  padding: 60px;
+}
+
+.social-icons{
+  list-style: none;
+  margin-bottom: 20px;
+  padding:0;
+/*  display: flex*/
+}
+
+.inline-icons{
+  display: inline-block;
+  font-size: 32px;
+/*  margin-top:16px;*/
+  margin-left: 20px;
+
+}
+.inline-icons a {
+  color:#1DDD88;
+}
+
+.footer p {
+  margin:0;
+}
